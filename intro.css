@@ -56,7 +56,6 @@ p {
 }
 
 .refresh {
-    position: absolute;
-    float:right;
-    right:48%;
+    position: relative;
+    
 }
