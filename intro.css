@@ -50,6 +50,7 @@ p {
     position: relative;
     float: right;
     bottom:5%;
+    margin-left: 5px;
 }
 
 .refresh {
