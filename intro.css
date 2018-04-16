@@ -47,8 +47,7 @@ p {
 }
 
 .aniButton {
-    float: left;
-    left:46%;
+    float: right;
     bottom:22px;
 }
 
