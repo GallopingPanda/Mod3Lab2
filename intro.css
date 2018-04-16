@@ -59,3 +59,8 @@ p {
     position: relative;
     
 }
+
+.refreshPage {
+    width:20%;
+    margin: auto auto;
+}
