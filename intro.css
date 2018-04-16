@@ -57,10 +57,11 @@ p {
 
 .refresh {
     position: relative;
+    margin: auto auto;
     
 }
 
 .refreshPage {
-    width:5%;
+    width:10%;
     margin: auto auto;
 }
