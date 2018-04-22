@@ -20,40 +20,19 @@ h1 {
 }
 
 p {
-    width: 50%;
-    margin: auto;
+    margin-left:50px;
+    margin-right:50px;
     margin-bottom: 25px;
    
 }
 
-.navPane {
-    width:80%;
-    height:30px;
-    background-color: grey;
-    margin-bottom: 20px;
-    margin-left:auto;
-    margin-right:auto;
-}
 
 .moreAboutMe {
     display: none;
     margin-top:5px;
 }
 
-.more {
-   position: relative;
-    float: left;
-    bottom:4%;
-    
-}
 
-.aniButton {
-    position: relative;
-    float: right;
-    bottom:4%;
-    
-   
-}
 
 .refresh {
     position: relative;
